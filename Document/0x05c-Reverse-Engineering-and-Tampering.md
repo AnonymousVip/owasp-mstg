@@ -1,4 +1,4 @@
-# Android Tampering and Reverse Engineering
+#  Android Tampering and Reverse Engineering
 
 Android's openness makes it a favorable environment for reverse engineers. In the following chapter, we'll look at some peculiarities of Android reversing and OS-specific tools as processes.
 
